@@ -1,4 +1,4 @@
-package com.example.cursoandroidkotlin
+package com.example.cursoandroidkotlin.sintaxis
 
 fun main() {
     val diasSemana =

@@ -1,4 +1,4 @@
-package com.example.cursoandroidkotlin
+package com.example.cursoandroidkotlin.ejercicios
 
 fun main() {
     val child = 5

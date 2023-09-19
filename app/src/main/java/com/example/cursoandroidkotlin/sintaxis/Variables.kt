@@ -1,4 +1,4 @@
-package com.example.cursoandroidkotlin
+package com.example.cursoandroidkotlin.sintaxis
 
 const val edad: Int = 21 //global - fuera de las funciones
 
